@@ -1,0 +1,14 @@
+{
+  "name": "pct_academic_calender",
+  "version": "1.0.0",
+  "description": "This is a program to run on an Amazon echo device that will relay events on the academic calender at the school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pct"
+  ],
+  "author": "Colin Hoffman",
+  "license": "ISC"
+}
